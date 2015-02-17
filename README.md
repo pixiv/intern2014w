@@ -56,7 +56,8 @@ intern2014w
 
 ## 質問チャットルーム
 
-技術的な質問については [idobata.io](https://idobata.io/) のチャットルームにてサポートいたします
+~~技術的な質問については [idobata.io](https://idobata.io/) のチャットルームにてサポートいたします~~
+終了しました
 
 https://idobata.io/organizations/pixiv/rooms/intern2014w_guest/join_request/2a304e3e-cdca-4919-be63-f76884b4df4c
 
