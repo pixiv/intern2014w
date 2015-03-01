@@ -1,4 +1,6 @@
 intern2014w
+初期のスコア:不明
+最終的なスコア:不明
 ===========
 
 [エンジニア向け　pixiv開発のbugリストからの脱出！エンジニア職インターン - ピクシブ株式会社 採用サイト](https://ssl.pixiv.net/recruit/entry/winter_intern.php)
